@@ -11,6 +11,7 @@
 
 Uma simples página de pesquisa referente a atletas das olimpíedas.
 
+* [Versão feita por mim](https://github.com/alemobn/challenge-imersao-alura-gemini)
 * [Imersão](https://www.youtube.com/watch?v=i4W_bkGkk6s)
 
 Projeto desenvolvido durante a Imersão da Alura com Gemini.
